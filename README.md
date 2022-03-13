@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 💬 Ask me about Data Science
+- 📫 How to reach me: maria.s.startseva@gmail.com
+
 <!--
 **maria-vsl/maria-vsl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
